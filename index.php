@@ -13,5 +13,5 @@ and open the template in the editor.
         <?php
         echooo 'Grosse erreur
         ?>
-    </body>
+    </body> 
 </html>
